@@ -79,7 +79,7 @@ Adversarial machine learning testing tools evaluate model robustness against eva
 
 | Tool | Description |
 |------|-------------|
-| [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) | Library of defense methods for ML models against adversarial attacks |
+| [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) | Library of defense methods for ML models against adversarial attacks and defenses |
 | [Foolbox](https://github.com/bethgelab/foolbox) | Python toolbox for creating and evaluating adversarial attacks and defenses |
 
 ### LLM Security and Red Teaming
@@ -129,6 +129,7 @@ These projects support model validation, monitoring, robustness, safety, and com
 |------|-------------|
 | [TensorFlow Model Analysis](https://github.com/tensorflow/model-analysis) | A library for analyzing, validating, and monitoring machine learning models in production|
 | [CircleGuardBench](https://github.com/whitecircle/circle-guard-bench)| A full-fledged benchmark for evaluating protection capabilities of AI models|
+| [AI Coding Agent Runtime Security Benchmark](https://hol.org/guard/research/ai-coding-agent-runtime-security-benchmark) | Deterministic fixture benchmark for AI coding-agent runtime controls across 11 security scenarios, with reproducible JSON/CSV data and explicit limitations on what the modeled results establish. |
 
 ### Additional Open-Source Tools
 
@@ -164,7 +165,7 @@ The following tools and research prototypes address additional MLSecOps testing,
 | [Model-Inversion-Attack-ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) | A framework for implementing Model Inversion attacks|
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NeMo Guardrails allow developers building LLM-based applications to add programmable guardrails between the application code and the LLM |
 | [AugLy](https://github.com/facebookresearch/AugLy) | Multimodal data-augmentation library for evaluating and improving model robustness; it is not an adversarial-attack generator |
-| [Knockoffnets](https://github.com/tribhuvanesh/knockoffnets) | Proof of concept for training a functional surrogate from black-box model queries |
+| [Knockoffnets](https://github.com/tribhuvanesh/knockoffnets) | Proof of concept for training a surrogate convolutional neural network from black-box model queries |
 | [VGER](https://github.com/JosephTLucas/vger) | Jupyter Attack framework |
 | [AIShield Watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) | An open-source tool from AIShield for studying AI models and scanning for vulnerabilities |
 | [PS-fuzz](https://github.com/prompt-security/ps-fuzz) | tool for scanning LLM vulnerabilities|
@@ -255,7 +256,7 @@ AI threat modeling identifies assets, trust boundaries, attack paths, and securi
 
 ![image](https://github.com/user-attachments/assets/db78c3e7-8e41-4097-8f71-30b69eb70e55)
 
-![image](https://github.com/user-attachments/assets/2cc30071-7ec2-4f09-bf80-29d6b1a008ba)
+![image](https://github.com/user-attachments/assets/2cc30071-7ec2-4f09-bf81-bd6880797267)
 
 
 More in **Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps**.
