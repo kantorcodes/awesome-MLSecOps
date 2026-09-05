@@ -30,7 +30,7 @@ Latest articles:
 
 <!-- newsletter-issues:start -->
 - [Safetensors Won. Model Serialization Attacks Didn’t Stop.](https://themlsecopshacker.com/p/safetensors-won-model-serialization) — August 28, 2026
-- [AI Security: Model Serialization Attacks](https://themlsecopshacker.com/p/ai-security-model-serialization) — November 4, 2024
+- [AI Security: Model Serialization Attacks](https://themlsecopshacker.com/p/ai-security-model-serialization-attacks) — November 4, 2024
 - [What is MLSecOps?](https://themlsecopshacker.com/p/what-is-mlsecops) — October 8, 2024
 <!-- newsletter-issues:end -->
 
@@ -148,7 +148,7 @@ The following tools and research prototypes address additional MLSecOps testing,
 | [PromptInject](https://github.com/agencyenterprise/PromptInject) | A framework that assembles adversarial prompts|
 | [TextAttack](https://github.com/QData/TextAttack) | TextAttack is a Python framework for adversarial attacks, data augmentation, and model training in NLP|
 | [OpenAttack](https://github.com/thunlp/OpenAttack) | An Open-Source Package for Textual Adversarial Attack|
-| [TextFooler](https://github.com/QData/TextAttack) | A Model for Natural Language Attack on Text Classification and Inference|
+| [TextFooler](https://github.com/jind11/TextFooler) | A Model for Natural Language Attack on Text Classification and Inference|
 | [Flawed Machine Learning Security](https://github.com/EthicalML/fml-security) | Practical examples of "Flawed Machine Learning Security" together with ML Security best practice across the end to end stages of the machine learning model lifecycle from training, to packaging, to deployment|
 | [Adversarial Machine Learning CTF](https://github.com/arturmiller/adversarial_ml_ctf) | CTF challenge demonstrating adversarial-image attacks against neural-network image classifiers |
 | [Damn Vulnerable LLM Project](https://github.com/harishsg993010/DamnVulnerableLLMProject) | A Large Language Model designed for getting hacked|
