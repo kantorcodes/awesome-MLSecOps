@@ -30,7 +30,7 @@ Latest articles:
 
 <!-- newsletter-issues:start -->
 - [Safetensors Won. Model Serialization Attacks Didn’t Stop.](https://themlsecopshacker.com/p/safetensors-won-model-serialization) — August 28, 2026
-- [AI Security: Model Serialization Attacks](https://themlsecopshacker.com/p/ai-security-model-serialization-attacks) — November 4, 2024
+- [AI Security: Model Serialization Attacks](https://themlsecopshacker.com/p/ai-security-model-serialization) — November 4, 2024
 - [What is MLSecOps?](https://themlsecopshacker.com/p/what-is-mlsecops) — October 8, 2024
 <!-- newsletter-issues:end -->
 
@@ -79,7 +79,7 @@ Adversarial machine learning testing tools evaluate model robustness against eva
 
 | Tool | Description |
 |------|-------------|
-| [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) | Library of defense methods for ML models against adversarial attacks and defenses |
+| [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox) | Library of defense methods for ML models against adversarial attacks |
 | [Foolbox](https://github.com/bethgelab/foolbox) | Python toolbox for creating and evaluating adversarial attacks and defenses |
 
 ### LLM Security and Red Teaming
@@ -148,7 +148,7 @@ The following tools and research prototypes address additional MLSecOps testing,
 | [PromptInject](https://github.com/agencyenterprise/PromptInject) | A framework that assembles adversarial prompts|
 | [TextAttack](https://github.com/QData/TextAttack) | TextAttack is a Python framework for adversarial attacks, data augmentation, and model training in NLP|
 | [OpenAttack](https://github.com/thunlp/OpenAttack) | An Open-Source Package for Textual Adversarial Attack|
-| [TextFooler](https://github.com/jind11/TextFooler) | A Model for Natural Language Attack on Text Classification and Inference|
+| [TextFooler](https://github.com/QData/TextAttack) | A Model for Natural Language Attack on Text Classification and Inference|
 | [Flawed Machine Learning Security](https://github.com/EthicalML/fml-security) | Practical examples of "Flawed Machine Learning Security" together with ML Security best practice across the end to end stages of the machine learning model lifecycle from training, to packaging, to deployment|
 | [Adversarial Machine Learning CTF](https://github.com/arturmiller/adversarial_ml_ctf) | CTF challenge demonstrating adversarial-image attacks against neural-network image classifiers |
 | [Damn Vulnerable LLM Project](https://github.com/harishsg993010/DamnVulnerableLLMProject) | A Large Language Model designed for getting hacked|
@@ -165,7 +165,7 @@ The following tools and research prototypes address additional MLSecOps testing,
 | [Model-Inversion-Attack-ToolBox](https://github.com/ffhibnese/Model-Inversion-Attack-ToolBox) | A framework for implementing Model Inversion attacks|
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NeMo Guardrails allow developers building LLM-based applications to add programmable guardrails between the application code and the LLM |
 | [AugLy](https://github.com/facebookresearch/AugLy) | Multimodal data-augmentation library for evaluating and improving model robustness; it is not an adversarial-attack generator |
-| [Knockoffnets](https://github.com/tribhuvanesh/knockoffnets) | Proof of concept for training a surrogate convolutional neural network from black-box model queries |
+| [Knockoffnets](https://github.com/tribhuvanesh/knockoffnets) | Proof of concept for training a functional surrogate from black-box model queries |
 | [VGER](https://github.com/JosephTLucas/vger) | Jupyter Attack framework |
 | [AIShield Watchtower](https://github.com/bosch-aisecurity-aishield/watchtower) | An open-source tool from AIShield for studying AI models and scanning for vulnerabilities |
 | [PS-fuzz](https://github.com/prompt-security/ps-fuzz) | tool for scanning LLM vulnerabilities|
@@ -256,7 +256,7 @@ AI threat modeling identifies assets, trust boundaries, attack paths, and securi
 
 ![image](https://github.com/user-attachments/assets/db78c3e7-8e41-4097-8f71-30b69eb70e55)
 
-![image](https://github.com/user-attachments/assets/2cc30071-7ec2-4f09-bf81-bd6880797267)
+![image](https://github.com/user-attachments/assets/2cc30071-7ec2-4f09-bf80-29d6b1a008ba)
 
 
 More in **Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps**.
